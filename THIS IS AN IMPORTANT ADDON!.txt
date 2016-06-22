@@ -1,0 +1,3 @@
+The gamemode scripts in EVORP all use NetworkedInts Strings...
+this addon overrides those primitive functions and uses net.Send instead!
+Without this addon the server will lag like a bitch!
